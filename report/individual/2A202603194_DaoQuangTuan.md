@@ -101,7 +101,7 @@ Tổng hợp số lỗi theo loại:
 
 Lỗi nào chỉ lượt 2 (theo cảnh) mới thấy, lượt 1 (theo người) không thấy? Vì sao?
 
-Lỗi chưa ẩn cô gái cầm túi hồng (P4) khi bị cô áo xanh che khuất (frame 124–129) chỉ lượt 2 mới thấy. Vì sao: ...
+Lỗi chưa ẩn cô gái cầm túi hồng (P4) khi bị cô áo xanh che khuất (frame 124–129) chỉ lượt 2 mới thấy. Vì sao: ở lượt 1, tôi chỉ theo dõi P4 nên không để ý cô áo xanh đang che P4 hoàn toàn; đến lượt 2 nhìn cả 5 người cùng lúc mới thấy P4 đã khuất hẳn sau cô áo xanh mà box vẫn hiện.
 
 ## 5. File xuất và kết quả tự kiểm (CP4)
 
