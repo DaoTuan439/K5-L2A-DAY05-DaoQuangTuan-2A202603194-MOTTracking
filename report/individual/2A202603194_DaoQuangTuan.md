@@ -10,7 +10,7 @@
 - MSSV: 2A202603194
 - Mã đề (A/B/C): **C** (task `DAY05-MOT17-09-C-2A202603194`, MOT ID 1, 7, 20, 22, 23)
 - Email:daotuan6325@gmail.com
-- Link repository: `https://github.com/DaoTuan439/K5-L2-Day05-DaoQuangTuan-2A202603194-MOTTracking`
+- Link repository: `https://github.com/DaoTuan439/K5-L2-DAY05-DaoQuangTuan-2A202603194-MOTTracking`
 - Giờ bắt đầu:16:00
 - Giờ kết thúc:18:00
 
